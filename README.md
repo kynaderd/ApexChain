@@ -9,7 +9,7 @@ talked to via Claude.
 No external image assets, no cloud backend required to run — the
 creature itself is drawn with vector shapes, and it wanders and reacts
 to clicks/drags with zero setup. Add an Anthropic API key and it can
-actually talk back.
+actually talk back. 
 
 ## Features 
 
