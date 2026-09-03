@@ -1,5 +1,8 @@
 # AZUKI
 
+<img src="https://i.ibb.co/9kKXv7sS/image-2026-09-05-T195004-426.webp" width="120" alt="description">
+
+
 **Azuki** is a portable, desktop-traversing AI companion — a tiny,
 always-on-top creature that lives on your screen, wanders along the
 edges of your monitors (crossing between them like they're one
