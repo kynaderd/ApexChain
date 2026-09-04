@@ -11,7 +11,7 @@ creature itself is drawn with vector shapes, and it wanders and reacts
 to clicks/drags with zero setup. Add an Anthropic API key and it can
 actually talk back.
 
-## Features
+## Features 
 
 - **Always-on-top, transparent, borderless** — sits on top of every
   other window without a taskbar entry.
