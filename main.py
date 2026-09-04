@@ -11,7 +11,7 @@ Usage:
 
 Requires ANTHROPIC_API_KEY to be set in your environment for Azuki to
 hold real conversations (see README.md) — without it, Azuki still
-wanders and reacts to clicks/drags, it just can't chat back.
+wanders and reacts to clicks/drags, it just can't chat back. 
 """
 
 import sys
